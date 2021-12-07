@@ -1,0 +1,15 @@
+.mario {
+  width: 68px;
+  height: 68px;
+  display: block;
+  position: relative;
+  background: url('../images/mario-walk-n-jump-68.png');
+/*  background-position: -68px top;*/;
+  animation: walk .9s steps(1)  infinite;
+}
+@keyframes walk {
+  0%{ background-position:   0px top;}
+  25%{ background-position:  -68px top;}
+  75%{ background-position:  -136px top;}
+  100%{ background-position:  -204px top;}
+}
