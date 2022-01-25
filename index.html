@@ -12,12 +12,19 @@
   <body>
     <script>
     $(document).ready(function() {
-      console.log( 'готов!' );
+      $("#demo").html("Хочу в теремок")
     });
-// можем добавить в head;  или в отдельный файл js
-//Будет отображать во вкладке консоль
+    $(document).ready(function(){
+	$("div").click(function(){
+    $(this).toggleClass("black");
+	});
+});
     </script>
     <p id="demo"></p>
+    <div class="box pink"></div>
+      <div class="box blue"></div>
+        <div class="box grey"></div>
+    </div>
 
   </body>
 </html>
