@@ -10,10 +10,7 @@
     <script src="javascripts/java-script.js" charset="utf-8"></script>
   </head>
   <body>
-    <script>
-    $(document).ready(function() {
-      $("#demo").html("Хочу в теремок")
-    });
+  <!--<script>
     $(document).ready(function(){
 	$("div").click(function(){
     $(this).toggleClass("black");
@@ -24,7 +21,83 @@
     <div class="box pink"></div>
       <div class="box blue"></div>
         <div class="box grey"></div>
-    </div>
-
+    </div>-->
+    <div class="box2"></div>
+    <script>
+      $(".box2").on('click', function(){
+      $(this).hide();
+      });
+    </script>
+    <!-- исчезновение объекта по клику-->
+    <div class="box3"></div>
+    <script>
+      $(".box3").on('click', function(){
+      $(this).slideUp();
+      });
+    </script>
+    <!--плавное уезжание-->
+    <div class="box4"></div>
+    <script>
+      $(".box4").on('click', function(){
+      $(this).fadeOut(3000);
+      });
+    </script>
+    <!--изменение прозрачности;
+     (300) скобки регулируют время анимации, указывается в миллисекундах-->
+     <div class="box5"></div>
+     <script>
+       $(".box5").on('click', function(){
+       $(this).animate ({
+         "width": "500px",
+         "opacity": ".5"
+       }, 4000);
+     })
+     </script>
+     <!--разъезжается в прямоугольник
+       тег animate позволяет менять объект, его ширину, прозрачность;
+      (300) скобки регулируют время анимации, указывается в миллисекундах
+      и в этом случае указываются после всего-->
+      <div class="accordion">
+           <div class="panel">
+             <div class="panel-header">
+               <h1>HTML</h1>
+             </div>
+             <div class="panel-body">
+               <p>helllo</p>
+              </div>
+            </div>
+      <div class="panel">
+             <div class="panel-header">
+               <h1>HTML</h1>
+             </div>
+             <div class="panel-body">
+               <p>helllo</p>
+              </div>
+            </div>
+      <div class="panel">
+             <div class="panel-header">
+               <h1>HTML</h1>
+             </div>
+             <div class="panel-body">
+               <p>helllo</p>
+              </div>
+            </div>
+      </div>
+    <script>
+    $(".panel-header h1").on('click', function(){
+      //$(".panel-body").toggle();
+      $(this).parent().siblings('.panel-body').toggle();
+    });
+    </script>
+    <div class="box6"></div>
+    <bottom id="box7"><img src="img/imgone.png"></bottom>
+    <script>
+      $('box7').click(function (){
+        $(this).prop('src','img/imgone.png');
+      })
+      $('box7').click(function (){
+        $(this).prop('src','img/imgtwo.png');
+      })
+    </script>
   </body>
 </html>
