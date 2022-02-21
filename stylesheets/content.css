@@ -1,7 +1,22 @@
 body {
   overflow-x: hidden;
   width: 1920px;
-  height: 2915px;
+  height: 1682px;
   margin: 0 auto;
   background-color: #FAF5EF;
+}
+.background img{
+  position: absolute;
+  z-index: -100;
+  margin: 0 auto;
+  opacity: 0.4;
+  width: 1920px;
+  height: 1682px;
+}
+.t1 {
+  position: absolute;
+  z-index: 1;
+  font-size: 128px;
+  font-family: "Didona", Serif;
+  margin: 75.81px 0px 0px 294px;/*верхнего, правого, нижнего и левого края.*/
 }
