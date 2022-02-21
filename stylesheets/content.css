@@ -100,3 +100,26 @@ p{
   height: 42px;
   margin: 1581px 0px 0px 762px;/*верхнего, правого, нижнего и левого края.*/
 }
+.img1 img{
+  background: url(img/img1.png);
+  position: absolute;
+  z-index: -98;
+  margin: 355px 0px 0px 429px;
+  width: 122.61px;
+  height: 123.94px;
+}
+.img2 img{
+  background: url(img/img2.png);
+  position: absolute;
+  z-index: -1;
+  margin: 355px 0px 0px 429px;
+  width: 122.61px;
+  height: 123.94px;
+  opacity: 0;
+  transition: 1s;
+}
+.img1:hover+.img2 {
+  opacity:1;
+  transition: 1s;
+  background: url(img/img2.png);
+}
