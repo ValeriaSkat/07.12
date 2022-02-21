@@ -3,3 +3,8 @@
   src: url("../font/Didona.woff") format("woff");
   font-weight: 100;
 }
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: url("../font/Montserrat-Medium.woff") format("woff");
+  font-weight: 200;
+}

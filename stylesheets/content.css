@@ -19,4 +19,84 @@ body {
   font-size: 128px;
   font-family: "Didona", Serif;
   margin: 75.81px 0px 0px 294px;/*верхнего, правого, нижнего и левого края.*/
+  font-weight: 100;
+}
+.t2 {
+  position: absolute;
+  z-index: 2;
+  font-size: 25px;
+  font-family: "Montserrat-Medium", sans-serif;
+  margin: 191.3px 0px 0px 294px;/*верхнего, правого, нижнего и левого края.*/
+  font-weight: 200;
+}
+.t3 {
+  position: absolute;
+  z-index: 3;
+  font-size: 21px;
+  font-family: "Montserrat-Medium", sans-serif;
+  margin: 1221.13px 0px 0px 998.25px;/*верхнего, правого, нижнего и левого края.*/
+  font-weight: 200;
+}
+.mint1 {
+  position: absolute;
+  z-index: 4;
+  margin: 489.8px 0px 0px 528.21px;/*верхнего, правого, нижнего и левого края.*/
+}
+.mint2 {
+  position: absolute;
+  z-index: 5;
+  margin: 650.67px 0px 0px 995.19px;/*верхнего, правого, нижнего и левого края.*/
+}
+.mint3 {
+  position: absolute;
+  z-index: 6;
+  margin: 312.82px 0px 0px 1463.72px;/*верхнего, правого, нижнего и левого края.*/
+}
+.mint4 {
+  position: absolute;
+  z-index: 7;
+  margin: 588.82px 0px 0px 1355.21px;/*верхнего, правого, нижнего и левого края.*/
+}
+.mint5 {
+  position: absolute;
+  z-index: 8;
+  margin: 1462.8px 0px 0px 1554.74px;/*верхнего, правого, нижнего и левого края.*/
+}
+.mint6 {
+  position: absolute;
+  z-index: 9;
+  margin: 1350.67px 0px 0px 765.86px;/*верхнего, правого, нижнего и левого края.*/
+}
+.mint7 {
+  position: absolute;
+  z-index: 10;
+  margin: 1350.67px 0px 0px 529.72px;/*верхнего, правого, нижнего и левого края.*/
+}
+p{
+  font-weight: 200;
+  font-size: 16px;
+  font-family: "Montserrat-Medium", sans-serif;
+}
+.fut1 {
+  position: absolute;
+  z-index: 11;
+  font-size: 14px;
+  font-family: "Montserrat-Medium", sans-serif;
+  margin: 1582.2px 0px 0px 292.17px;/*верхнего, правого, нижнего и левого края.*/
+  font-weight: 200;
+}
+.fut2 {
+  position: absolute;
+  z-index: 12;
+  font-size: 14px;
+  font-family: "Montserrat-Medium", sans-serif;
+  margin: 1582.2px 0px 0px 529.17px;/*верхнего, правого, нижнего и левого края.*/
+  font-weight: 200;
+}
+.logo img{
+  position: absolute;
+  z-index: -99;
+  width: 113px;
+  height: 42px;
+  margin: 1581px 0px 0px 762px;/*верхнего, правого, нижнего и левого края.*/
 }
