@@ -127,3 +127,17 @@ p{
   height: 307.1px;
   margin: 1295px 0px 0px 1253px;/*верхнего, правого, нижнего и левого края.*/
 }
+.img6 img{
+  position: absolute;
+  z-index: -98;
+  width: 785.56px;
+  height: 1066.07px;
+  margin: 355px 0px 0px 1134.44px;/*верхнего, правого, нижнего и левого края.*/
+}
+.img7 img{
+  position: absolute;
+  z-index: -97;
+  width: 184.56px;
+  height: 144.12px;
+  margin: 680px 0px 0px 885.12px;/*верхнего, правого, нижнего и левого края.*/
+}
