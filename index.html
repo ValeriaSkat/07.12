@@ -38,7 +38,16 @@
   <div class="fut1">ВЕРБИЦКАЯ</br>ВАЛЕРИЯ</div>
   <div class="fut2">АРТ-ПРАКТИКА</br>2022</div>
   <div class="logo"><img src="img/logo.png" ></div>
-  <div class="imgone"><img src="img/img1.png" src="/img/img1.png"></div>
-  <div class="img2"><img src="img/img2.png" src="/img/img2.png"></div>
+  <div class="imgone"><img class="imgone" src="img/imgtwo.png" alt=""></div>
+  <script>
+  $(document).ready(function(){
+  $('.imgone').hover(function(){
+  $('.imgone').attr('src', 'img/imgthree.png');
+  })
+  $('.imgone').hover(function(){
+  $('.imgone').attr('src', 'img/imgthree.png');
+  })
+})
+  </script>
   </body>
 </html>
