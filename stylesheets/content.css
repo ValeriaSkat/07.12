@@ -1,7 +1,7 @@
 body {
   overflow-x: hidden;
   width: 1920px;
-  /*height: 1682px;*/
+  height: 1682px;
   background-color: #FAF5EF;
 }
 .background img{
@@ -112,4 +112,18 @@ p{
   width: 234.44px;
   height: 329px;
   margin: 1258px 0px 0px 1px;/*верхнего, правого, нижнего и левого края.*/
+}
+.img4 img{
+  position: absolute;
+  z-index: 14;
+  width: 513.73px;
+  height: 219px;
+  margin: 1463px 0px 0px 873.23px;/*верхнего, правого, нижнего и левого края.*/
+}
+.img5 img{
+  position: absolute;
+  z-index: 15;
+  width: 191.36px;
+  height: 307.1px;
+  margin: 1295px 0px 0px 1253px;/*верхнего, правого, нижнего и левого края.*/
 }
