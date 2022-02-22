@@ -100,7 +100,7 @@ p{
   height: 42px;
   margin: 1581px 0px 0px 762px;/*верхнего, правого, нижнего и левого края.*/
 }
-.img1 img{
+.imgone img{
   background: url(img/img1.png);
   position: absolute;
   z-index: -98;
@@ -118,8 +118,8 @@ p{
   opacity: 0;
   transition: 1s;
 }
-.img1:hover+.img2 {
-  opacity:1;
-  transition: 1s;
+.imgone:hover+.img2{
   background: url(img/img2.png);
+  opacity: 1;
+  transition: 1s;
 }
