@@ -141,3 +141,10 @@ p{
   height: 144.12px;
   margin: 680px 0px 0px 885.12px;/*верхнего, правого, нижнего и левого края.*/
 }
+.img8 img{
+  position: absolute;
+  z-index: 100;
+  width: 257.03px;
+  height: 506.5px;
+  margin: 607.86px 0px 0px 1410.11px;/*верхнего, правого, нижнего и левого края.*/
+}
