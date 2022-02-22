@@ -1,5 +1,5 @@
 body {
-  /*overflow-x: hidden;*/
+  overflow-x: hidden;
   width: 1920px;
   /*height: 1682px;*/
   background-color: #FAF5EF;
@@ -106,13 +106,10 @@ p{
   width: 122.61px;
   height: 123.94px;
 }
-/*.img2 img{
-  background: url(img/img2.png);
+.imgtwo img{
   position: absolute;
-  z-index: -1;
-  margin: 355px 0px 0px 429px;
-  width: 122.61px;
-  height: 123.94px;
-  opacity: 0;
-  transition: 1s;
-}*/
+  z-index: 13;
+  width: 234.44px;
+  height: 329px;
+  margin: 1258px 0px 0px 1px;/*верхнего, правого, нижнего и левого края.*/
+}
