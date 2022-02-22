@@ -1,8 +1,7 @@
 body {
   /*overflow-x: hidden;*/
-  width: 100%;
+  width: 1920px;
   /*height: 1682px;*/
-  margin: 0 auto;
   background-color: #FAF5EF;
 }
 .background img{
@@ -100,8 +99,10 @@ p{
   height: 42px;
   margin: 1581px 0px 0px 762px;/*верхнего, правого, нижнего и левого края.*/
 }
-.imgone img{
+.imgone {
   margin: 355px 0px 0px 429px;
+}
+.imgone img{
   width: 122.61px;
   height: 123.94px;
 }
