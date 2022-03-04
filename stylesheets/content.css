@@ -100,11 +100,12 @@ p{
   margin: 1581px 0px 0px 762px;/*верхнего, правого, нижнего и левого края.*/
 }
 .imgone {
-  margin: 355px 0px 0px 429px;
-}
-.imgone img{
   width: 122.61px;
   height: 123.94px;
+}
+.imgone2 {
+  position:absolute;
+  margin: 355px 0px 0px 429px;
 }
 .imgtwo img{
   position: absolute;
@@ -149,16 +150,51 @@ p{
   margin: 607.86px 0px 0px 1410.11px;/*верхнего, правого, нижнего и левого края.*/
 }
 .img9 {
-  margin: -136.64px 0px 0px 1324px;
+  width: 68.27px;
+  height: 531.76px;
+  transform: rotate(81.26deg);
 }
-.img9 img{
-  width: 535.96px;
-  height: 148.28px;
+.img99 {
+  margin: 139.62px 0px 0px 1557.85px;
+  position: absolute;
 }
 .img11 {
-  margin: 143.06px 0px 0px 884.09px;
+  width: 68.27px;
+  height: 531.76px;
+  transform: rotate(-144.81deg);
 }
-.img11 img{
-  width: 535.96px;
-  height: 148.28px;
+.img111 {
+  position: absolute;
+  margin: 593.18px 0px 0px 1030.58px;
+}
+.img13 {
+  width: 68.27px;
+  height: 531.76px;
+  transform: rotate(-149.95deg);
+}
+.img133 {
+  position: absolute;
+  margin: 725.35px 0px 0px 1035.6px;
+}
+.img15 {
+  width: 68.27px;
+  height: 531.76px;
+  transform: rotate(-69.98deg);
+}
+.img155 {
+  position: absolute;
+  margin: 1037.14px 0px 0px 1399.47px;
+}
+.img177 {
+  position: absolute;
+  margin: 1385.13px 0px 0px 1613.87px;
+}
+.img199 {
+  position: absolute;
+  margin: 345px 0px 0px 924px;
+}
+.img211 {
+  transform: rotate(30deg);
+  position: absolute;
+  margin: 363.9px 0px 0px 632.02px;
 }
