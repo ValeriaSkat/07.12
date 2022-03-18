@@ -56,3 +56,25 @@ $('.img211').attr('src', 'img/img22.png');
 $('.img211').attr('src', 'img/img21.png');
 })
 })
+$(document).ready(function(){
+$('.but2').click(function(){
+$('.imgsection3').attr('src', 'img/flo2.png');
+})
+$('.but1').click(function(){
+$('.imgsection3').attr('src', 'img/flo3.png');
+})
+$('.but3').click(function(){
+$('.imgsection3').attr('src', 'img/flo1.png');
+})
+})
+$(document).ready(function(){
+$('.but5').click(function(){
+$('.imgsection4').attr('src', 'img/sto2.png');
+})
+$('.but4').click(function(){
+$('.imgsection4').attr('src', 'img/sto3.png');
+})
+$('.but6').click(function(){
+$('.imgsection4').attr('src', 'img/sto1.png');
+})
+})

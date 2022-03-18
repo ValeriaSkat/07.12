@@ -54,7 +54,7 @@ body {
 .mint4 {
   position: absolute;
   z-index: 7;
-  margin: 588.82px 0px 0px 1355.21px;/*верхнего, правого, нижнего и левого края.*/
+  margin: 588px 0px 0px 1354px;/*верхнего, правого, нижнего и левого края.*/
 }
 .mint5 {
   position: absolute;
@@ -198,3 +198,60 @@ p{
   position: absolute;
   margin: 363.9px 0px 0px 632.02px;
 }
+.ball {
+  width: 32px;
+  height: 32px;
+  border-radius: 15px;
+  background-color: #6D779B;
+  margin: 415px 0px 0px 1392px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+.ball2 {
+  width: 32px;
+  height: 32px;
+  border-radius: 15px;
+  background-color: #3D425F;
+  margin: 426.39px 0px 0px 1434.5px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+.ball3 {
+  width: 32px;
+  height: 32px;
+  border-radius: 15px;
+  background-color: #262F40;
+  margin: 437.78px 0px 0px 1477px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+.imgsection3 {
+  margin: 502.41px 0px 0px 1196.66px;/*верхнего, правого, нижнего и левого края.*/
+  ;}
+.pos {
+  position: absolute;
+}
+  .ball4 {
+    width: 32px;
+    height: 32px;
+    border-radius: 15px;
+    background-color: #70A267;
+    margin: 457.92px 0px 0px 1552.11px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .ball5 {
+    width: 32px;
+    height: 32px;
+    border-radius: 15px;
+    background-color: #3E6338;
+    margin: 469.31px 0px 0px 1594.62px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .ball6 {
+    width: 32px;
+    height: 32px;
+    border-radius: 15px;
+    background-color: #2B4323;
+    margin: 480.7px 0px 0px 1637.12px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .imgsection4 {
+    margin: 414.02px 0px 0px 1107px;/*верхнего, правого, нижнего и левого края.*/
+    }
