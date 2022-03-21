@@ -199,6 +199,7 @@ p{
   margin: 363.9px 0px 0px 632.02px;
 }
 .ball {
+  z-index: 1;
   width: 32px;
   height: 32px;
   border-radius: 15px;
@@ -207,6 +208,7 @@ p{
   position: absolute;
 }
 .ball2 {
+  z-index: 2;
   width: 32px;
   height: 32px;
   border-radius: 15px;
@@ -215,6 +217,7 @@ p{
   position: absolute;
 }
 .ball3 {
+  z-index: 3;
   width: 32px;
   height: 32px;
   border-radius: 15px;
@@ -228,30 +231,81 @@ p{
 .pos {
   position: absolute;
 }
-  .ball4 {
-    width: 32px;
-    height: 32px;
-    border-radius: 15px;
-    background-color: #70A267;
-    margin: 457.92px 0px 0px 1552.11px;/*верхнего, правого, нижнего и левого края.*/
-    position: absolute;
+.ball4 {
+  z-index: 4;
+  width: 32px;
+  height: 32px;
+  border-radius: 15px;
+  background-color: #70A267;
+  margin: 457.92px 0px 0px 1552.11px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
   }
-  .ball5 {
-    width: 32px;
-    height: 32px;
-    border-radius: 15px;
-    background-color: #3E6338;
-    margin: 469.31px 0px 0px 1594.62px;/*верхнего, правого, нижнего и левого края.*/
-    position: absolute;
-  }
-  .ball6 {
-    width: 32px;
-    height: 32px;
-    border-radius: 15px;
-    background-color: #2B4323;
-    margin: 480.7px 0px 0px 1637.12px;/*верхнего, правого, нижнего и левого края.*/
-    position: absolute;
-  }
-  .imgsection4 {
-    margin: 414.02px 0px 0px 1107px;/*верхнего, правого, нижнего и левого края.*/
-    }
+.ball5 {
+  z-index: 5;
+  width: 32px;
+  height: 32px;
+  border-radius: 15px;
+  background-color: #3E6338;
+  margin: 469.31px 0px 0px 1594.62px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+.ball6 {
+  z-index: 6;
+  width: 32px;
+  height: 32px;
+  border-radius: 15px;
+  background-color: #2B4323;
+  margin: 480.7px 0px 0px 1637.12px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+.imgsection4 {
+  margin: 414.02px 0px 0px 1107px;/*верхнего, правого, нижнего и левого края.*/
+}
+.imgsection5 {
+  margin: 411px 0px 0px 1107px;/*верхнего, правого, нижнего и левого края.*/
+}
+.ball7 {
+  z-index: 7;
+  width: 32px;
+  height: 32px;
+  border-radius: 15px;
+  background-color: #7B161A;
+  margin: 500.65px 0px 0px 1711.59px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+.ball8 {
+  z-index: 8;
+  width: 32px;
+  height: 32px;
+  border-radius: 15px;
+  background-color: #B0494A;
+  margin: 512.04px 0px 0px 1754.09px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+.ball9 {
+  z-index: 9;
+  width: 32px;
+  height: 32px;
+  border-radius: 15px;
+  background-color: #D3737E;
+  margin: 523.43px 0px 0px 1796.59px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+.pos1 {
+  position: absolute;
+}
+.pos2 {
+  position: absolute;
+}
+.img23 {
+  /*width: 68.27px;
+  height: 531.76px;*/
+  margin: 1389px 1512.68px 0px 0px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+.img24 {
+  /*width: 68.27px;
+  height: 531.76px;*/
+  margin: 419px 0px 0px 210px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}

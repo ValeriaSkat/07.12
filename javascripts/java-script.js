@@ -78,3 +78,19 @@ $('.but6').click(function(){
 $('.imgsection4').attr('src', 'img/sto1.png');
 })
 })
+$(document).ready(function(){
+$('.but8').click(function(){
+$('.imgsection5').attr('src', 'img/niz2.png');
+})
+$('.but7').click(function(){
+$('.imgsection5').attr('src', 'img/niz3.png');
+})
+$('.but9').click(function(){
+$('.imgsection5').attr('src', 'img/niz1.png');
+})
+})
+$(document).ready(function(){
+$('.but10').click(function(){
+$('.img24').attr('src', 'img/img25.png');
+})
+})
