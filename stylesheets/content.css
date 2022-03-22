@@ -68,7 +68,7 @@ body {
 }
 .mint7 {
   position: absolute;
-  z-index: 10;
+  z-index: 0;
   margin: 1350.67px 0px 0px 529.72px;/*верхнего, правого, нижнего и левого края.*/
 }
 p{
@@ -130,7 +130,7 @@ p{
 }
 .img6 img{
   position: absolute;
-  z-index: -98;
+  z-index: 0;
   width: 785.56px;
   height: 1066.07px;
   margin: 355px 0px 0px 1134.44px;/*верхнего, правого, нижнего и левого края.*/
@@ -190,6 +190,7 @@ p{
   margin: 1385.13px 0px 0px 1613.87px;
 }
 .img199 {
+  cursor: pointer;
   position: absolute;
   margin: 345px 0px 0px 924px;
 }
@@ -199,6 +200,7 @@ p{
   margin: 363.9px 0px 0px 632.02px;
 }
 .ball {
+  cursor: pointer;
   z-index: 1;
   width: 32px;
   height: 32px;
@@ -208,6 +210,7 @@ p{
   position: absolute;
 }
 .ball2 {
+  cursor: pointer;
   z-index: 2;
   width: 32px;
   height: 32px;
@@ -217,6 +220,7 @@ p{
   position: absolute;
 }
 .ball3 {
+  cursor: pointer;
   z-index: 3;
   width: 32px;
   height: 32px;
@@ -232,6 +236,7 @@ p{
   position: absolute;
 }
 .ball4 {
+  cursor: pointer;
   z-index: 4;
   width: 32px;
   height: 32px;
@@ -241,6 +246,7 @@ p{
   position: absolute;
   }
 .ball5 {
+  cursor: pointer;
   z-index: 5;
   width: 32px;
   height: 32px;
@@ -250,6 +256,7 @@ p{
   position: absolute;
 }
 .ball6 {
+  cursor: pointer;
   z-index: 6;
   width: 32px;
   height: 32px;
@@ -265,6 +272,7 @@ p{
   margin: 411px 0px 0px 1107px;/*верхнего, правого, нижнего и левого края.*/
 }
 .ball7 {
+  cursor: pointer;
   z-index: 7;
   width: 32px;
   height: 32px;
@@ -274,6 +282,7 @@ p{
   position: absolute;
 }
 .ball8 {
+  cursor: pointer;
   z-index: 8;
   width: 32px;
   height: 32px;
@@ -283,6 +292,7 @@ p{
   position: absolute;
 }
 .ball9 {
+  cursor: pointer;
   z-index: 9;
   width: 32px;
   height: 32px;
@@ -298,14 +308,69 @@ p{
   position: absolute;
 }
 .img23 {
+  cursor: pointer;
   /*width: 68.27px;
   height: 531.76px;*/
   margin: 1389px 1512.68px 0px 0px;/*верхнего, правого, нижнего и левого края.*/
   position: absolute;
 }
 .img24 {
-  /*width: 68.27px;
-  height: 531.76px;*/
   margin: 419px 0px 0px 210px;/*верхнего, правого, нижнего и левого края.*/
   position: absolute;
+}
+.img27 {
+  cursor: pointer;
+  transform: rotate(-27.81deg);
+  margin: 449.56px 1327.6px 0px 0px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+.img28 {
+  cursor: pointer;
+  transform: rotate(24deg);
+  margin: 626.87px 0px 0px 230px;/*верхнего, правого, нижнего и левого края.*/
+  position: absolute;
+}
+@keyframes anim {
+  0% {
+    color: white;
+  }
+  100% {
+    color: white;
+  }
+}
+.b {
+  animation: anim 2s alternate infinite;
+}
+.f {
+  animation: animo 2s alternate infinite;
+}
+@keyframes animo {
+  0% {
+    background-color: black;
+  }
+  100% {
+    background-color: black;
+  }
+}
+.img29 {
+  z-index: 99;
+  position: absolute;
+  margin: 663px 1547.56px 0px 0px;
+  border-bottom-color: none;
+}
+.k {
+  animation: an 2s;
+  animation-iteration-count: 1;
+}
+@keyframes an {
+  0% {
+    transform: rotate(30deg);
+    top: 363.9px;
+    right: 632.02px;
+  }
+  100% {
+    transform: rotate(0deg);
+    top: 995px;
+    right: 190px;
+  }
 }

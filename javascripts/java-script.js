@@ -34,9 +34,21 @@ $('.img15').attr('src', 'img/img15.png');
 })
 })
 $(document).ready(function(){
+
 $('.img177').click(function(){
 $('.img177').attr('src', 'img/img18.png');
-})
+$('.mint1').addClass('b');
+$('.mint2').addClass('b');
+$('.mint3').addClass('b');
+$('.mint5').addClass('b');
+$('.mint6').addClass('b');
+$('.mint7').addClass('b');
+$('.t1').addClass('b');
+$('.t2').addClass('b');
+$('.t3').addClass('b');
+$('.fut1').addClass('b');
+$('.fut2').addClass('b');
+$('body,html').addClass('f');})
 $('.img177').click(function(){
 $('.img177').attr('src', 'img/img18.png');
 })
@@ -50,6 +62,9 @@ $('.img199').attr('src', 'img/img20.png');
 })
 })
 $(document).ready(function(){
+  $('.img211').click(function(){
+  $('.img211').addClass('k');
+  })
 $('.img211').hover(function(){
 $('.img211').attr('src', 'img/img22.png');
 },function(){
@@ -93,4 +108,16 @@ $(document).ready(function(){
 $('.but10').click(function(){
 $('.img24').attr('src', 'img/img25.png');
 })
+})
+$(function() {
+$(".img27").draggable();
+});
+$(function() {
+$(".img28").draggable();
+});
+$('.cofe').click(function() {
+  $('.cofe').addClass('b');
+});
+$('.img211').click(function(){
+$('.img211').addClass('k');
 })
