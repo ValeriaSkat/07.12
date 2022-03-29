@@ -71,6 +71,11 @@ body {
   z-index: 0;
   margin: 1350.67px 0px 0px 529.72px;/*верхнего, правого, нижнего и левого края.*/
 }
+.mint8 {
+  position: absolute;
+  z-index: 100;
+  margin: 834.67px 0px 0px 54.72px;/*верхнего, правого, нижнего и левого края.*/
+}
 p{
   font-weight: 200;
   font-size: 16px;
@@ -100,12 +105,14 @@ p{
   margin: 1581px 0px 0px 762px;/*верхнего, правого, нижнего и левого края.*/
 }
 .imgone {
+  cursor: pointer;
+  z-index: 100;
   width: 122.61px;
   height: 123.94px;
 }
-.imgone2 {
+.imgone {
   position:absolute;
-  margin: 355px 0px 0px 429px;
+  margin: 355px 0px 0px 522px;
 }
 .imgtwo img{
   position: absolute;
@@ -196,9 +203,10 @@ p{
   margin: 345px 0px 0px 924px;
 }
 .img211 {
-  transform: rotate(30deg);
+  z-index: 100;
+  cursor: pointer;
   position: absolute;
-  margin: 363.9px 0px 0px 632.02px;
+  margin: 345.9px 0px 0px 692.02px;
 }
 .ball {
   cursor: pointer;
@@ -358,20 +366,4 @@ p{
   position: absolute;
   margin: 663px 1547.56px 0px 0px;
   border-bottom-color: none;
-}
-.k {
-  animation: an 2s;
-  animation-iteration-count: 1;
-}
-@keyframes an {
-  0% {
-    transform: rotate(30deg);
-    top: 363.9px;
-    right: 632.02px;
-  }
-  100% {
-    transform: rotate(0deg);
-    top: 995px;
-    right: 190px;
-  }
 }

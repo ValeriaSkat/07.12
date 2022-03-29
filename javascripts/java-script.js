@@ -118,6 +118,18 @@ $(".img28").draggable();
 $('.cofe').click(function() {
   $('.cofe').addClass('b');
 });
-$('.img211').click(function(){
-$('.img211').addClass('k');
+
+$(function() {
+$(".img211").draggable();
+});
+$(function() {
+$(".imgone2").draggable();
+});
+
+$(document).ready(function(){
+$('.img199').hover(function(){
+$('.img199').attr('src', 'img/img19911.png');
+},function(){
+$('.img199').attr('src', 'img/img19.png');
+})
 })
