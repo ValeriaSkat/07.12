@@ -1,4 +1,5 @@
 body {
+
   overflow-x: hidden;
   width: 1920px;
   height: 1682px;
@@ -366,4 +367,58 @@ p{
   position: absolute;
   margin: 663px 1547.56px 0px 0px;
   border-bottom-color: none;
+}
+.j {
+  animation: lol 2s alternate infinite;
+}
+@keyframes lol {
+  0% {
+
+    border: 1px double black;
+  }
+  100% {
+    border: 1px double black;
+  }
+}
+.imgkrest {
+  margin: 72px 0px 0px 1825px;
+  position: fixed;
+}
+.tfortwo {
+  position: absolute;
+  z-index: 1;
+  font-size: 37px;
+  font-family: "Didona", Serif;
+  margin: 71.35px 0px 0px 60.56px;/*верхнего, правого, нижнего и левого края.*/
+  font-weight: 100;
+}
+.imgf {
+  z-index: 1;
+  position: absolute;
+  margin: 72px 0px 0px 580px;
+}
+.imgf2 {
+  z-index: 2;
+  position: absolute;
+  margin: 143px 0px 0px 775px;
+}
+.imgf3 {
+  z-index: -1;
+  position: absolute;
+  margin: 130px 0px 0px 60px;
+}
+.imgf4 {
+  z-index: 3;
+  position: absolute;
+  margin: 924px 0px 0px 867px;
+}
+.book {
+  z-index: 4;
+  position: absolute;
+  margin: 851px 694.07px 0px 0px;
+}
+.mintf1 {
+  position: absolute;
+  z-index: 4;
+  margin: 1215px 0px 0px 60px;/*верхнего, правого, нижнего и левого края.*/
 }
