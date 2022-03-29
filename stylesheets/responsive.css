@@ -1,0 +1,501 @@
+@media (max-width: 1920px) {
+  .t1 {
+    max-width: 100%;
+  }
+  .t2 {
+    max-width: 100%;
+  }
+  .t3 {
+    max-width: 100%;
+  }
+  .mint1 {
+    max-width: 100%;
+  }
+  .mint2 {
+    max-width: 100%;
+  }
+  .mint3 {
+    max-width: 100%;
+  }
+  .mint4 {
+    max-width: 100%;
+  }
+  .mint5 {
+    max-width: 100%;
+  }
+  .mint6 {
+    max-width: 100%;
+  }
+  .mint7 {
+    max-width: 100%;
+  }
+  .mint8 {
+    max-width: 100%;
+  }
+  .fut1 {
+    max-width: 100%;
+  }
+  .fut2 {
+    max-width: 100%;
+  }
+  .logo img{
+    max-width: 100%;
+  }
+  .imgtwo {
+    max-width: 100%;
+  }
+  .img4 {
+    max-width: 100%;
+  }
+  .img5 {
+    max-width: 100%;
+  }
+  .img6 {
+    max-width: 100%;
+  }
+  .img7 {
+    max-width: 100%;
+  }
+  .img8 {
+    max-width: 100%;
+  }
+  .img177 {
+    max-width: 100%;
+  }
+  .pos1 {
+    max-width: 100%;
+  }
+  .but4 {
+    max-width: 100%;
+  }
+  .ball4 {
+    max-width: 100%;
+  }
+  .but5 {
+    max-width: 100%;
+  }
+  .ball5 {
+    max-width: 100%;
+  }
+  .but6 {
+    max-width: 100%;
+  }
+  .ball6 {
+    max-width: 100%;
+  }
+  .imgsection4 {
+    max-width: 100%;
+  }
+  .but7 {
+    max-width: 100%;
+  }
+  .ball7 {
+    max-width: 100%;
+  }
+  .but8 {
+    max-width: 100%;
+  }
+  .ball8 {
+    max-width: 100%;
+  }
+  .but9 {
+    max-width: 100%;
+  }
+  .ball9 {
+    max-width: 100%;
+  }
+  .imgsection5 {
+    max-width: 100%;
+  }
+  .but1 {
+    max-width: 100%;
+  }
+  .but2 {
+    max-width: 100%;
+  }
+  .but3 {
+    max-width: 100%;
+  }
+  .ball {
+    max-width: 100%;
+  }
+  .ball2 {
+    max-width: 100%;
+  }
+  .ball3 {
+    max-width: 100%;
+  }
+  .imgsection3 {
+    max-width: 100%;
+  }
+  .penn {
+    max-width: 100%;
+  }
+  .but10 {
+    max-width: 100%;
+  }
+  .img23 {
+    max-width: 100%;
+  }
+  .img24 {
+    max-width: 100%;
+  }
+  .imgone2 {
+    max-width: 100%;
+  }
+  .imgone {
+    max-width: 100%;
+  }
+  .img27 {
+    max-width: 100%;
+  }
+  .img28 {
+    max-width: 100%;
+  }
+  .img177 {
+    max-width: 100%;
+  }
+  .img199 {
+    max-width: 100%;
+  }
+  .img111 {
+    max-width: 100%;
+  }
+  .img11 {
+    max-width: 100%;
+  }
+  .img133 {
+    max-width: 100%;
+  }
+  .img13 {
+    max-width: 100%;
+  }
+  .img155 {
+    max-width: 100%;
+  }
+  .img15 {
+    max-width: 100%;
+  }
+  .infomenu {
+    max-width: 100%;
+  }
+  .img29 {
+    max-width: 100%;
+  }
+  .img211 {
+    max-width: 100%;
+  }
+  .twobod {
+    max-width: 100%;
+  }
+  .infomenutwo {
+    max-width: 100%;
+  }
+  .imgkrest {
+    max-width: 100%;
+  }
+  .tfortwo {
+    max-width: 100%;
+  }
+  .imgf {
+    max-width: 100%;
+  }
+  .imgf2 {
+    max-width: 100%;
+  }
+  .imgf3 {
+    max-width: 100%;
+  }
+  .imgf4 {
+    max-width: 100%;
+  }
+  .project {
+    max-width: 100%;
+  }
+  .book {
+    max-width: 100%;
+  }
+  .mintf1 {
+    max-width: 100%;
+  }
+  p{
+    max-width: 100%;
+  }
+}
+@media (max-width: 1440px) {
+  .t1 {
+    position: absolute;
+    z-index: 1;
+    font-size: 77px;
+    font-family: "Didona", Serif;
+    margin: 68.54px 0px 0px 177.17px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 100;
+  }
+  .t2 {
+    position: absolute;
+    z-index: 2;
+    font-size: 23px;
+    font-family: "Montserrat-Medium", sans-serif;
+    margin: 149.72px 0px 0px 178.51px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 200;
+  }
+  .t3 {
+    position: absolute;
+    z-index: 3;
+    font-size: 19px;
+    font-family: "Montserrat-Medium", sans-serif;
+    margin: 948.35px 0px 0px 629.23px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 200;
+  }
+  .mint1 {
+    position: absolute;
+    z-index: 4;
+    margin: 344.03px 0px 0px 295.2px;
+  }
+  .mint2 {
+    position: absolute;
+    z-index: 5;
+    margin: 482.38px 0px 0px 654.18px;
+  }
+  .mint3 {
+    position: absolute;
+    z-index: 6;
+    margin: 223.71px 0px 0px 1014.68px;
+  }
+  .mint4 {
+    position: absolute;
+    z-index: 7;
+    margin: 434.71px 0px 0px 917.2px;
+  }
+  .mint5 {
+    position: absolute;
+    z-index: 8;
+    margin: 1107.5px 0px 0px 1084.64px;
+  }
+  .mint6 {
+    position: absolute;
+    z-index: 9;
+    margin: 1021.38px 0px 0px 477.81px;
+  }
+  .mint7 {
+    position: absolute;
+    z-index: 0;
+    margin: 1022.67px 0px 0px 295.72px;
+  }
+  .mint8 {
+    position: absolute;
+    z-index: 100;
+    margin: 532.38px 0px 0px 23.76px;
+  }
+  p{
+    font-weight: 200;
+    font-size: 15px;
+    font-family: "Montserrat-Medium", sans-serif;
+  }
+  .fut1 {
+    position: absolute;
+    z-index: 11;
+    font-size: 14px;
+    font-family: "Montserrat-Medium", sans-serif;
+    margin: 1221.2px 0px 0px 177.53px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 200;
+  }
+  .fut2 {
+    position: absolute;
+    z-index: 12;
+    font-size: 14px;
+    font-family: "Montserrat-Medium", sans-serif;
+    margin: 1221.2px 0px 0px 287.17px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 200;
+  }
+  .logo img{
+    position: absolute;
+    z-index: -99;
+    width: 86px;
+    height: 32px;
+    margin: 1220px 0px 0px 429px;
+  }
+  .imgone {
+    cursor: pointer;
+    z-index: 100;
+    width: 122.61px;
+    height: 123.94px;
+  }
+  .img4 {
+    max-width: 100%;
+  }
+  .img5 {
+    max-width: 100%;
+  }
+  .img6 {
+    max-width: 100%;
+  }
+  .img7 {
+    max-width: 100%;
+  }
+  .img8 {
+    max-width: 100%;
+  }
+  .img177 {
+    max-width: 100%;
+  }
+  .pos1 {
+    max-width: 100%;
+  }
+  .but4 {
+    max-width: 100%;
+  }
+  .ball4 {
+    max-width: 100%;
+  }
+  .but5 {
+    max-width: 100%;
+  }
+  .ball5 {
+    max-width: 100%;
+  }
+  .but6 {
+    max-width: 100%;
+  }
+  .ball6 {
+    max-width: 100%;
+  }
+  .imgsection4 {
+    max-width: 100%;
+  }
+  .but7 {
+    max-width: 100%;
+  }
+  .ball7 {
+    max-width: 100%;
+  }
+  .but8 {
+    max-width: 100%;
+  }
+  .ball8 {
+    max-width: 100%;
+  }
+  .but9 {
+    max-width: 100%;
+  }
+  .ball9 {
+    max-width: 100%;
+  }
+  .imgsection5 {
+    max-width: 100%;
+  }
+  .but1 {
+    max-width: 100%;
+  }
+  .but2 {
+    max-width: 100%;
+  }
+  .but3 {
+    max-width: 100%;
+  }
+  .ball {
+    max-width: 100%;
+  }
+  .ball2 {
+    max-width: 100%;
+  }
+  .ball3 {
+    max-width: 100%;
+  }
+  .imgsection3 {
+    max-width: 100%;
+  }
+  .penn {
+    max-width: 100%;
+  }
+  .but10 {
+    max-width: 100%;
+  }
+  .img23 {
+    max-width: 100%;
+  }
+  .img24 {
+    max-width: 100%;
+  }
+  .imgone2 {
+    max-width: 100%;
+  }
+  .imgone {
+    max-width: 100%;
+  }
+  .img27 {
+    max-width: 100%;
+  }
+  .img28 {
+    max-width: 100%;
+  }
+  .img177 {
+    max-width: 100%;
+  }
+  .img199 {
+    max-width: 100%;
+  }
+  .img111 {
+    max-width: 100%;
+  }
+  .img11 {
+    max-width: 100%;
+  }
+  .img133 {
+    max-width: 100%;
+  }
+  .img13 {
+    max-width: 100%;
+  }
+  .img155 {
+    max-width: 100%;
+  }
+  .img15 {
+    max-width: 100%;
+  }
+  .infomenu {
+    max-width: 100%;
+  }
+  .img29 {
+    max-width: 100%;
+  }
+  .img211 {
+    max-width: 100%;
+  }
+  .twobod {
+    max-width: 100%;
+  }
+  .infomenutwo {
+    max-width: 100%;
+  }
+  .imgkrest {
+    max-width: 100%;
+  }
+  .tfortwo {
+    max-width: 100%;
+  }
+  .imgf {
+    max-width: 100%;
+  }
+  .imgf2 {
+    max-width: 100%;
+  }
+  .imgf3 {
+    max-width: 100%;
+  }
+  .imgf4 {
+    max-width: 100%;
+  }
+  .project {
+    max-width: 100%;
+  }
+  .book {
+    max-width: 100%;
+  }
+  .mintf1 {
+    max-width: 100%;
+  }
+}
+@media (max-width: 768px) {
+
+}
