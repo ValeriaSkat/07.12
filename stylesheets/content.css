@@ -382,6 +382,7 @@ p{
 .imgkrest {
   margin: 72px 0px 0px 1825px;
   position: fixed;
+  z-index: 100;
 }
 .tfortwo {
   position: absolute;
