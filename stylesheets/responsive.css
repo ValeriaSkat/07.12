@@ -1,4 +1,10 @@
-@media (max-width: 1920px) {
+@media (max-width: 1920px;) {
+  .imgnone1 img{
+    max-width: 100%;
+  }
+  .imgnone2 img{
+    max-width: 100%;
+  }
   .t1 {
     max-width: 100%;
   }
@@ -229,6 +235,20 @@
   }
 }
 @media (max-width: 1440px) {
+  .imgnone1 img{
+    width: 10px;
+    height: 10px;
+    margin: 441px 0px 0px 973px;
+    position: absolute;
+    z-index: -100;
+  }
+  .imgnone2 img{
+    width: 10px;
+    height: 10px;
+    margin: 492px 0px 0px 1371px;
+    position: absolute;
+    z-index: -99;
+  }
   .t1 {
     position: absolute;
     z-index: 1;
@@ -303,7 +323,7 @@
     z-index: 11;
     font-size: 14px;
     font-family: "Montserrat-Medium", sans-serif;
-    margin: 1221.2px 0px 0px 177.53px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 1221.2px 0px 0px 219px;/*верхнего, правого, нижнего и левого края.*/
     font-weight: 200;
   }
   .fut2 {
@@ -311,7 +331,7 @@
     z-index: 12;
     font-size: 14px;
     font-family: "Montserrat-Medium", sans-serif;
-    margin: 1221.2px 0px 0px 287.17px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 1221.2px 0px 0px 330.17px;/*верхнего, правого, нижнего и левого края.*/
     font-weight: 200;
   }
   .logo img{
@@ -319,7 +339,7 @@
     z-index: -99;
     width: 86px;
     height: 32px;
-    margin: 1220px 0px 0px 429px;
+    margin: 1220px 0px 0px 472px;
   }
   .imgone {
     cursor: pointer;
@@ -454,8 +474,8 @@
   }
   .imgsection3 {
     margin: 346px 0px 0px 770px;/*верхнего, правого, нижнего и левого края.*/
-    width: 700.65px;
-    height: 701.99px;
+    width: 670px;
+    height: 671.28px;
   } /*цветок*/
 
   .pos {
@@ -492,15 +512,15 @@
     position: absolute;
   }
   .imgsection4 {
-    margin: 346px 0px 0px 770px;
-    width: 700.65px;
-    height: 701.99px;
+    margin: 346px 0px 0px 770px;/*верхнего, правого, нижнего и левого края.*/
+    width: 670px;
+    height: 671.28px;
     /*тело цветка*/
   }
   .imgsection5 {
-    margin: 346px 0px 0px 770px;
-    width: 700.65px;
-    height: 701.99px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 346px 0px 0px 789px;/*верхнего, правого, нижнего и левого края.*/
+    width: 670px;
+    height: 671.28px;/*верхнего, правого, нижнего и левого края.*/
   }
   .ball7 {
     cursor: pointer;
@@ -661,7 +681,4 @@
     width: 881px;
     height: 593px;
   }
-}
-@media (max-width: 768px) {
-
 }

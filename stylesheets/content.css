@@ -421,3 +421,17 @@ p{
   z-index: 4;
   margin: 1215px 0px 0px 60px;/*верхнего, правого, нижнего и левого края.*/
 }
+.imgnone1 img{
+  width: 10px;
+  height: 10px;
+  margin: 441px 0px 0px 1375px;
+  position: absolute;
+  z-index: -100;
+}
+.imgnone2 img{
+  width: 10px;
+  height: 10px;
+  margin: 492px 0px 0px 1371px;
+  position: absolute;
+  z-index: -99;
+}
