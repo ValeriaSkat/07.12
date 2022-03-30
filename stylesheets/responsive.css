@@ -2,6 +2,9 @@
   .t1 {
     max-width: 100%;
   }
+  body {
+    max-width: 100%;
+  }
   .t2 {
     max-width: 100%;
   }
@@ -268,7 +271,7 @@
   .mint4 {
     position: absolute;
     z-index: 7;
-    margin: 434.71px 0px 0px 917.2px;
+    margin: 391px 0px 0px 835px;
   }
   .mint5 {
     position: absolute;
@@ -349,13 +352,20 @@
     height: 236.04px;
     margin: 978.88px 0px 0px 852.28px;/*верхнего, правого, нижнего и левого края.*/
   }
+  .img6 img{
+    position: absolute;
+    z-index: 0;
+    width: 620px;
+    height: 912px;
+    margin: 278px 0px 0px 820px;/*верхнего, правого, нижнего и левого края.*/
+  } /* блокнот */
   .img7 img{
     position: absolute;
     z-index: -97;
-    width: 50px;
-    height: 134.93px;
+    width: 141px;
+    height: 111px;
     margin: 506.18px 0px 0px 569.52px;/*верхнего, правого, нижнего и левого края.*/
-  }
+  } /*ластик мерить по фото*/
   .img8 img{
     position: absolute;
     z-index: 100;
@@ -400,133 +410,256 @@
   .img199 {
     cursor: pointer;
     position: absolute;
-    margin: 345px 0px 0px 924px;
+    margin: 248.7px 0px 0px 599.41px;
+    width: 234.43px;
+    height: 216.48px;
   } /* скомканный лист*/
-  .but8 {
-    max-width: 100%;
-  }
-  .ball8 {
-    max-width: 100%;
-  }
-  .but9 {
-    max-width: 100%;
-  }
-  .ball9 {
-    max-width: 100%;
-  }
-  .imgsection5 {
-    max-width: 100%;
-  }
-  .but1 {
-    max-width: 100%;
-  }
-  .but2 {
-    max-width: 100%;
-  }
-  .but3 {
-    max-width: 100%;
-  }
+  .img211 {
+    z-index: 100;
+    cursor: pointer;
+    position: absolute;
+    margin: 239px 0px 0px 374.99px;
+    width: 121.89px;
+    height: 100.35px;
+  } /*марка с жуком*/
   .ball {
-    max-width: 100%;
+    cursor: pointer;
+    z-index: 1;
+    width: 26.52px;
+    height: 26.52px;
+    border-radius: 15px;
+    background-color: #6D779B;
+    margin: 359px 0px 0px 1008px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
   }
   .ball2 {
-    max-width: 100%;
+    cursor: pointer;
+    z-index: 2;
+    width: 26.52px;
+    height: 26.52px;
+    border-radius: 15px;
+    background-color: #3D425F;
+    margin: 368.44px 0px 0px 1043.22px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
   }
   .ball3 {
-    max-width: 100%;
+    cursor: pointer;
+    z-index: 3;
+    width: 26.52px;
+    height: 26.52px;
+    border-radius: 15px;
+    background-color: #262F40;
+    margin: 377.88px 0px 0px 1078.44px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
   }
   .imgsection3 {
-    max-width: 100%;
+    margin: 346px 0px 0px 770px;/*верхнего, правого, нижнего и левого края.*/
+    width: 700.65px;
+    height: 701.99px;
+  } /*цветок*/
+
+  .pos {
+    position: absolute;
   }
-  .penn {
-    max-width: 100%;
+  .ball4 {
+    cursor: pointer;
+    z-index: 4;
+    width: 26.52px;
+    height: 26.52px;
+    border-radius: 15px;
+    background-color: #70A267;
+    margin: 394.57px 0px 0px 1140.69px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+    }
+  .ball5 {
+    cursor: pointer;
+    z-index: 5;
+    width: 26.52px;
+    height: 26.52px;
+    border-radius: 15px;
+    background-color: #3E6338;
+    margin: 404.01px 0px 0px 1175.92px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
   }
-  .but10 {
-    max-width: 100%;
+  .ball6 {
+    cursor: pointer;
+    z-index: 6;
+    width: 26.52px;
+    height: 26.52px;
+    border-radius: 15px;
+    background-color: #2B4323;
+    margin: 413.45px 0px 0px 1211.14px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .imgsection4 {
+    margin: 346px 0px 0px 770px;
+    width: 700.65px;
+    height: 701.99px;
+    /*тело цветка*/
+  }
+  .imgsection5 {
+    margin: 346px 0px 0px 770px;
+    width: 700.65px;
+    height: 701.99px;/*верхнего, правого, нижнего и левого края.*/
+  }
+  .ball7 {
+    cursor: pointer;
+    z-index: 7;
+    width: 26.52px;
+    height: 26.52px;
+    border-radius: 15px;
+    background-color: #7B161A;
+    margin: 429.98px 0px 0px 1272.85px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .ball8 {
+    cursor: pointer;
+    z-index: 8;
+    width: 26.52px;
+    height: 26.52px;
+    border-radius: 15px;
+    background-color: #B0494A;
+    margin: 439.42px 0px 0px 1308.08px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .ball9 {
+    cursor: pointer;
+    z-index: 9;
+    width: 26.52px;
+    height: 26.52px;
+    border-radius: 15px;
+    background-color: #D3737E;
+    margin: 448.86px 0px 0px 1343.3px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .pos1 {
+    position: absolute;
+  }
+  .pos2 {
+    position: absolute;
   }
   .img23 {
-    max-width: 100%;
-  }
+    cursor: pointer;
+    width: 317px;
+    height: 228px;
+    margin: 1071px 1171px 0px 0px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  } /* фломастер чтобы подписать*/
   .img24 {
-    max-width: 100%;
-  }
-  .imgone2 {
-    max-width: 100%;
-  }
-  .imgone {
-    max-width: 100%;
-  }
+    margin: 305.58px 0px 0px 50.62px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+    width: 548.79px;
+    height: 764px;
+  } /*книга*/
   .img27 {
-    max-width: 100%;
-  }
+    cursor: pointer;
+    transform: rotate(-27.81deg);
+    margin: 450.06px 1154.18px 0px 0px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+    width: 494.22px;
+    height: 617.96px;
+  } /*листик лысый*/
   .img28 {
-    max-width: 100%;
+    cursor: pointer;
+    transform: rotate(24deg);
+    margin: 400.37px 826.97px 0px 0px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+    width: 446.48px;
+    height: 597.5px;
   }
-  .img177 {
-    max-width: 100%;
+  @keyframes anim {
+    0% {
+      color: white;
+    }
+    100% {
+      color: white;
+    }
   }
-  .img199 {
-    max-width: 100%;
+  .b {
+    animation: anim 2s alternate infinite;
   }
-  .img111 {
-    max-width: 100%;
+  .f {
+    animation: animo 2s alternate infinite;
   }
-  .img11 {
-    max-width: 100%;
-  }
-  .img133 {
-    max-width: 100%;
-  }
-  .img13 {
-    max-width: 100%;
-  }
-  .img155 {
-    max-width: 100%;
-  }
-  .img15 {
-    max-width: 100%;
-  }
-  .infomenu {
-    max-width: 100%;
+  @keyframes animo {
+    0% {
+      background-color: black;
+    }
+    100% {
+      background-color: black;
+    }
   }
   .img29 {
-    max-width: 100%;
+    z-index: 99;
+    position: absolute;
+    margin: 497px 1180px 0px 0px;
+    border-bottom-color: none;
+    width: 260px;
+    height: 331px;
   }
-  .img211 {
-    max-width: 100%;
+  .j {
+    animation: lol 2s alternate infinite;
   }
-  .twobod {
-    max-width: 100%;
-  }
-  .infomenutwo {
-    max-width: 100%;
+  @keyframes lol {
+    0% {
+
+      border: 1px double black;
+    }
+    100% {
+      border: 1px double black;
+    }
   }
   .imgkrest {
-    max-width: 100%;
+    margin: 72px 0px 0px 1345px;
+    position: fixed;
   }
   .tfortwo {
-    max-width: 100%;
-  }
-  .imgf {
-    max-width: 100%;
-  }
-  .imgf2 {
-    max-width: 100%;
-  }
-  .imgf3 {
-    max-width: 100%;
-  }
-  .imgf4 {
-    max-width: 100%;
-  }
-  .project {
-    max-width: 100%;
-  }
-  .book {
-    max-width: 100%;
+    position: absolute;
+    z-index: 1;
+    font-size: 37px;
+    font-family: "Didona", Serif;
+    margin: 71.35px 0px 0px 60.56px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 100;
   }
   .mintf1 {
-    max-width: 100%;
+    position: absolute;
+    z-index: 4;
+    margin: 918.8px 0px 0px 60.86px;/*верхнего, правого, нижнего и левого края.*/
+  }
+  .imgf {
+    z-index: 1;
+    position: absolute;
+    margin: 222px 0px 0px 397px;
+    width: 716px;
+    height: 968px;
+  }
+  .imgf2 {
+    z-index: 2;
+    position: absolute;
+    margin: 17px 0px 0px 565px;
+    width: 830px;
+    height: 1000px;
+  }
+  .imgf3 {
+    z-index: -1;
+    position: absolute;
+    margin: 99px 0px 0px 36px;
+    width: 762px;
+    height: 817px;
+  }
+  .imgf4 {
+    z-index: 3;
+    position: absolute;
+    margin: 709px 0px 0px 642px;
+    width: 798px;
+    height: 553px;
+  }
+  .book {
+    z-index: 4;
+    position: absolute;
+    margin: 669px 559px 0px 0px;
+    width: 881px;
+    height: 593px;
   }
 }
 @media (max-width: 768px) {

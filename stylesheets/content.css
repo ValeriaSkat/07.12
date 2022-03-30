@@ -1,8 +1,7 @@
 body {
-
   overflow-x: hidden;
-  width: 1920px;
-  height: 1682px;
+  /*width: 1920px;
+  height: 1682px;*/
   background-color: #FAF5EF;
 }
 .background img{
@@ -241,7 +240,7 @@ p{
 }
 .imgsection3 {
   margin: 502.41px 0px 0px 1196.66px;/*верхнего, правого, нижнего и левого края.*/
-  ;}
+  }
 .pos {
   position: absolute;
 }
