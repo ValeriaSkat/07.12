@@ -898,3 +898,462 @@
     height: 434px;
   }
 }
+@media only screen and (min-device-width: 415px) and (max-device-width: 768px){
+  .imgnone1 img{
+    width: 390.57px;
+    height: 515.44px;
+    margin: 262.59px 0px 0px 187.66px;
+    position: absolute;
+    z-index: -100;
+  }
+  .imgnone2 img{
+    width: 10px;
+    height: 10px;
+    margin: 1039px 0px 0px 615px;
+    position: absolute;
+    z-index: -99;
+  }
+  .t1 {
+    position: absolute;
+    z-index: 1;
+    font-size: 76px;
+    font-family: "Didona", Serif;
+    margin: 60.26px 0px 0px 44.15px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 100;
+  }
+  .t2 {
+    position: absolute;
+    z-index: 2;
+    font-size: 25px;
+    font-family: "Montserrat-Medium", sans-serif;
+    margin: 135.3px 0px 0px 44.72px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 200;
+  }
+  .t3 {
+    position: absolute;
+    z-index: 3;
+    font-size: 21px;
+    font-family: "Montserrat-Medium", sans-serif;
+    margin: 1821.13px 0px 0px 373.25px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 200;
+  }
+  .mint1 {
+    position: absolute;
+    z-index: 4;
+    margin: 1288.8px 0px 0px 512.21px;
+  }
+  .mint2 {
+    position: absolute;
+    z-index: 5;
+    margin: 950.67px 0px 0px 315.19px;
+  }
+  .mint3 {
+    position: absolute;
+    z-index: 6;
+    margin: 1075.82px 0px 0px 42.72px;
+  }
+  .mint4 {
+    position: absolute;
+    z-index: 7;
+    margin: 273.82px 0px 0px 42.21px;
+  }
+  .mint5 {
+    position: absolute;
+    z-index: 8;
+    margin: 2574.8px 0px 0px 531.74px;
+  } /*кофе надпись*/
+  .mint6 {
+    position: absolute;
+    z-index: 9;
+    margin: 2033.67px 0px 0px 278.86px;
+  }
+  .mint7 {
+    position: absolute;
+    z-index: 0;
+    margin: 2254.67px 0px 0px 530.72px;
+  }
+  .mint8 {
+    position: absolute;
+    z-index: 100;
+    margin: 1299.67px 0px 0px 49.74px;
+  }
+  p{
+    font-weight: 200;
+    font-size: 16px;
+    font-family: "Montserrat-Medium", sans-serif;
+  }
+  .fut1 {
+    position: absolute;
+    z-index: 11;
+    font-size: 14px;
+    font-family: "Montserrat-Medium", sans-serif;
+    margin: 2765.2px 0px 0px 45.53px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 200;
+  }
+  .fut2 {
+    position: absolute;
+    z-index: 12;
+    font-size: 14px;
+    font-family: "Montserrat-Medium", sans-serif;
+    margin: 2765.2px 0px 0px 190.17px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 200;
+  }
+  .logo img{
+    position: absolute;
+    z-index: -99;
+    width: 113px;
+    height: 42px;
+    margin: 2764px 0px 0px 374px;
+  }
+  .imgone {
+    cursor: pointer;
+    z-index: 100;
+    width: 159.75px;
+    height: 161.48px;
+  }/* марка с фламинго*/
+  .imgone {
+    position:absolute;
+    margin: 1376.12px 0px 0px 491px;
+  }/* марка с фламинго*/
+  .imgtwo img{
+    position: absolute;
+    z-index: 13;
+    width: 234.44px;
+    height: 329px;
+    margin: 1749px 0px 0px 13px;
+    transform: rotate(90deg);/*верхнего, правого, нижнего и левого края.*/
+  } /*скрепки и прочая хрень */
+  .img4 img{
+    position: absolute;
+    z-index: 14;
+    width: 10px;
+    height: 10px;
+    margin: 1463px 0px 0px 383.23px;
+  } /* обрезанная записка снизу*/
+  .img5 img{
+    position: absolute;
+    z-index: 15;
+    width: 162.84px;
+    height: 261.33px;
+    margin: 1912.23px 0px 0px 518.49px;
+    transform: rotate(-123.39deg);/*верхнего, правого, нижнего и левого края.*/
+  } /*карандаш*/
+  .img6 img{
+    position: absolute;
+    z-index: 0;
+    width: 10px;
+    height: 10px;
+    margin: 1039px 0px 0px 598.44px;/*верхнего, правого, нижнего и левого края.*/
+  } /* блокнот */
+  .img7 img{
+    position: absolute;
+    z-index: -97;
+    width: 10px;
+    height: 10px;
+    margin: 1020px 0px 0px 556px;/*верхнего, правого, нижнего и левого края.*/
+  } /*ластик мерить по фото*/
+  .img8 img{
+    position: absolute;
+    z-index: 100;
+    width: 160.53px;
+    height: 316.09px;
+    margin: 362.39px 0px 0px 289.17px;
+    transform: rotate(-15deg);/*верхнего, правого, нижнего и левого края.*/
+  }/*куски скотча*/
+  .img11 {
+    width: 61.76px;
+    height: 481.08px;
+    transform: rotate(176.11deg);
+  } /* первая ручка */
+  .img111 {
+    position: absolute;
+    margin: 570.54px 0px 0px 33.26px;
+  }
+  .img13 {
+    width: 60.23px;
+    height: 469.16px;
+    transform: rotate(150deg);
+  } /* вторая ручка */
+  .img133 {
+    position: absolute;
+    margin: 742.63px 0px 0px 189.25px;
+  }
+  .img15 {
+    width: 60.68px;
+    height: 472.69px;
+    transform: rotate(90deg);
+  } /*третья ручка*/
+  .img155 {
+    position: absolute;
+    margin: 633px 0px 0px 449px;
+  }
+  .img177 {
+    cursor: pointer;
+    position: absolute;
+    margin: 2586px 0px 0px 525px;
+    width: 243px;
+    height: 236px;
+  } /* чашка кофе */
+  .img199 {
+    cursor: pointer;
+    position: absolute;
+    margin: 953px 0px 0px 452px;
+    width: 264.93px;
+    height: 244.65px;
+  } /* скомканный лист*/
+  .img211 {
+    z-index: 100;
+    cursor: pointer;
+    position: absolute;
+    margin: 1583.59px 0px 0px 479px;
+    width: 172.4px;
+    height: 141.93px;
+  } /*марка с жуком*/
+  .ball {
+    cursor: pointer;
+    z-index: 1;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #6D779B;
+    margin: 306px 0px 0px 584px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .ball2 {
+    cursor: pointer;
+    z-index: 2;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #3D425F;
+    margin: 367px 0px 0px 584px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .ball3 {
+    cursor: pointer;
+    z-index: 3;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #262F40;
+    margin: 428px 0px 0px 584px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .imgsection3 {
+    margin: 263.75px 0px 0px 143.53px;/*верхнего, правого, нижнего и левого края.*/
+    width: 480.57px;
+    height: 480.57px;
+    transform: rotate(-3.64deg);
+  } /*цветок*/
+  .pos {
+    position: absolute;
+  }
+  .ball4 {
+    cursor: pointer;
+    z-index: 4;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #70A267;
+    margin: 553px 0px 0px 584px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+    }
+  .ball5 {
+    cursor: pointer;
+    z-index: 5;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #3E6338;
+    margin: 615px 0px 0px 584px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .ball6 {
+    cursor: pointer;
+    z-index: 6;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #2B4323;
+    margin: 676px 0px 0px 584px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .imgsection4 {
+    margin: 263.82px 0px 0px 143.47px;
+    width: 478.51px;
+    height: 478.51px;
+    transform: rotate(-3.64deg);
+    /*тело цветка*/
+  }
+  .imgsection5 {
+    margin: 261.83px 0px 0px 141.35px;
+    width: 480.57px;
+    height: 480.57px;
+    transform: rotate(-3.64deg);
+    /*верхнего, правого, нижнего и левого края.*/
+  }
+  .ball7 {
+    cursor: pointer;
+    z-index: 7;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #7B161A;
+    margin: 431px 0px 0px 126px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .ball8 {
+    cursor: pointer;
+    z-index: 8;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #B0494A;
+    margin: 492px 0px 0px 126px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .ball9 {
+    cursor: pointer;
+    z-index: 9;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #D3737E;
+    margin: 553px 0px 0px 126px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+  }
+  .pos1 {
+    position: absolute;
+  }
+  .pos2 {
+    position: absolute;
+  }
+  .img23 {
+    cursor: pointer;
+    width: 301px;
+    height: 216px;
+    margin: 2354.5px 0px 0px 509.5px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+    transform: rotate(-90deg);
+  } /* фломастер чтобы подписать*/
+  .img24 {
+    margin: 2034px 0px 0px 22px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+    width: 512.86px;
+    height: 713.98px;
+  } /*книга*/
+  .img27 {
+    cursor: pointer;
+    transform: rotate(-27.81deg);
+    margin: 2128.56px 374.67px 0px 0px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+    width: 407.1px;
+    height: 509.04px;
+  } /*листик лысый*/
+  .img28 {
+    cursor: pointer;
+    transform: rotate(28.82deg);
+    margin: 2166.04px 0px 0px 53.86px;/*верхнего, правого, нижнего и левого края.*/
+    position: absolute;
+    width: 391.04px;
+    height: 523.32px;
+  } /*лист жирный*/
+  @keyframes anim {
+    0% {
+      color: white;
+    }
+    100% {
+      color: white;
+    }
+  }
+  .b {
+    animation: anim 2s alternate infinite;
+  }
+  .f {
+    animation: animo 2s alternate infinite;
+  }
+  @keyframes animo {
+    0% {
+      background-color: black;
+    }
+    100% {
+      background-color: black;
+    }
+  }
+  .img29 {
+    z-index: 99;
+    position: absolute;
+    margin: 1198px 344px 0px 0px;
+    border-bottom-color: none;
+    width: 425px;
+    height: 541px;
+  } /*письмо*/
+  .j {
+    animation: lol 2s alternate infinite;
+  }
+  @keyframes lol {
+    0% {
+
+      border: 1px double black;
+    }
+    100% {
+      border: 1px double black;
+    }
+  }
+  .imgkrest {
+    margin: 53px 0px 0px 689px;
+    position: fixed;
+  }
+  .tfortwo {
+    position: absolute;
+    z-index: 1;
+    font-size: 50px;
+    font-family: "Didona", Serif;
+    margin: 50.99px 0px 0px 43.76px;/*верхнего, правого, нижнего и левого края.*/
+    font-weight: 100;
+  }
+  .mintf1 {
+    position: absolute;
+    z-index: 4;
+    margin: 149.8px 0px 0px 51.86px;/*верхнего, правого, нижнего и левого края.*/
+  }
+  .imgf {
+    z-index: 1;
+    position: absolute;
+    margin: 97px 0px 0px 277px;
+    width: 469px;
+    height: 634px;
+  }
+  .imgf2 {
+    z-index: 2;
+    position: absolute;
+    margin: 35px 0px 0px 405px;
+    width: 574px;
+    height: 691px;
+  }
+  .imgf3 {
+    z-index: -1;
+    position: absolute;
+    margin: 130px 0px 0px 32px;
+    width: 530px;
+    height: 568px;
+  }
+  .imgf4 {
+    z-index: 3;
+    position: absolute;
+    margin: 372px 0px 0px 453px;
+    width: 571px;
+    height: 396px;
+  }
+  .book {
+    z-index: 4;
+    position: absolute;
+    margin: 414px 498px 0px 0px;
+    width: 526px;
+    height: 354px;
+  }
+  .twobod {
+    height: 768px;
+    overflow-y: hidden;
+  }
+}
