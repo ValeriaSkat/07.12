@@ -9,7 +9,7 @@
   .imgnone2 img{
     width: 10px;
     height: 10px;
-    margin: 763px 0px 0px 178px;
+    margin: 763px 0px 0px 163px;
     position: absolute;
     z-index: -99;
   }
@@ -128,7 +128,7 @@
     z-index: 14;
     width: 10px;
     height: 10px;
-    margin: 1463px 0px 0px 383.23px;
+    margin: 1161px 0px 0px 147.23px;
   } /* обрезанная записка снизу*/
   .img5 img{
     position: absolute;
@@ -143,14 +143,14 @@
     z-index: 0;
     width: 10px;
     height: 10px;
-    margin: 1039px 0px 0px 598.44px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 1039px 0px 0px 176.445px;/*верхнего, правого, нижнего и левого края.*/
   } /* блокнот */
   .img7 img{
     position: absolute;
     z-index: -97;
     width: 10px;
     height: 10px;
-    margin: 1020px 0px 0px 556px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 1020px 0px 0px 202px;/*верхнего, правого, нижнего и левого края.*/
   } /*ластик мерить по фото*/
   .img8 img{
     position: absolute;
@@ -345,7 +345,7 @@
   .img27 {
     cursor: pointer;
     transform: rotate(-27.81deg);
-    margin: 1330.51px 178.29px 0px 0px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 1383.51px 178.29px 0px 0px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
     width: 263.97px;
     height: 330.07px;
@@ -353,7 +353,7 @@
   .img28 {
     cursor: pointer;
     transform: rotate(28.82deg);
-    margin: 1439.02px 0px 0px 115.55px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 1439.02px 0px 0px 52.55px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
     width: 278.37px;
     height: 372.52px;
@@ -383,14 +383,14 @@
   .img29 {
     z-index: 99;
     position: absolute;
-    margin: 1198px 344px 0px 0px;
+    margin: 947px 177px 0px 0px;
     border-bottom-color: none;
-    width: 425px;
-    height: 541px;
+    width: 237px;
+    height: 302px;
   } /*письмо*/
   .j {
     animation: lol 2s alternate infinite;
-  }
+  } /*ТУТ ОСТАНОВИЛАСЬ*/
   @keyframes lol {
     0% {
 
