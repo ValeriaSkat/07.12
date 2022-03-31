@@ -672,7 +672,7 @@
     height: 45px;
     border-radius: 30px;
     background-color: #6D779B;
-    margin: 182px 0px 0px 352px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 130px 0px 0px 302px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
   }
   .ball2 {
@@ -682,7 +682,7 @@
     height: 45px;
     border-radius: 30px;
     background-color: #3D425F;
-    margin: 243px 0px 0px 352px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 191px 0px 0px 302px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
   }
   .ball3 {
@@ -692,13 +692,13 @@
     height: 45px;
     border-radius: 30px;
     background-color: #262F40;
-    margin: 304px 0px 0px 352px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 252px 0px 0px 302px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
   }
   .imgsection3 {
-    margin: 212.03px 0px 0px 39.87px;/*верхнего, правого, нижнего и левого края.*/
-    width: 346.83px;
-    height: 346.83px;
+    margin: 172.49px 0px 0px 19.35px;/*верхнего, правого, нижнего и левого края.*/
+    width: 314.74px;
+    height: 314.74px;
     transform: rotate(-3.64deg);
   } /*цветок*/
   .pos {
@@ -711,7 +711,7 @@
     height: 45px;
     border-radius: 30px;
     background-color: #70A267;
-    margin: 367px 0px 0px 352px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 315px 0px 0px 302px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
     }
   .ball5 {
@@ -721,7 +721,7 @@
     height: 45px;
     border-radius: 30px;
     background-color: #3E6338;
-    margin: 429px 0px 0px 352px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 377px 0px 0px 302px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
   }
   .ball6 {
@@ -731,20 +731,20 @@
     height: 45px;
     border-radius: 30px;
     background-color: #2B4323;
-    margin: 490px 0px 0px 352px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 438px 0px 0px 302px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
   }
   .imgsection4 {
-    margin: 212.07px 0px 0px 39.82px;
-    width: 345.35px;
-    height: 345.35px;
+    margin: 172.54px 0px 0px 19.31px;
+    width: 313.39px;
+    height: 313.39px;
     transform: rotate(-3.64deg);
     /*тело цветка*/
   }
   .imgsection5 {
-    margin: 210.64px 0px 0px 38.3px;
-    width: 346.83px;
-    height: 346.83px;
+    margin: 171.23px 0px 0px 17.92px;
+    width: 314.74px;
+    height: 314.74px;
     transform: rotate(-3.64deg);
     /*верхнего, правого, нижнего и левого края.*/
   }
@@ -755,7 +755,7 @@
     height: 45px;
     border-radius: 30px;
     background-color: #7B161A;
-    margin: 265px 0px 0px 22px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 234px 0px 0px 9px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
   }
   .ball8 {
@@ -765,7 +765,7 @@
     height: 45px;
     border-radius: 30px;
     background-color: #B0494A;
-    margin: 326px 0px 0px 22px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 295px 0px 0px 9px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
   }
   .ball9 {
@@ -775,7 +775,7 @@
     height: 45px;
     border-radius: 30px;
     background-color: #D3737E;
-    margin: 387px 0px 0px 22px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 356px 0px 0px 9px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
   }
   .pos1 {
@@ -787,32 +787,32 @@
   .img23 {
     cursor: pointer;
     width: 229px;
+    margin: 1691px 0px 0px 32px;/*верхнего, правого, нижнего и левого края.*/
     height: 164px;
-    margin: 1806px 0px 0px 34px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
     transform: rotate(-180deg);
   } /* фломастер чтобы подписать*/
   .img24 {
-    margin: 1299px 0px 0px 10px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 1251.65px 0px 0px 15.19px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
-    width: 394px;
-    height: 550px;
+    width: 342.03px;
+    height: 477.46px;
   } /*книга*/
   .img27 {
     cursor: pointer;
     transform: rotate(-27.81deg);
-    margin: 1383.51px 178.29px 0px 0px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 1318.97px 0px 0px 57.89px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
-    width: 263.97px;
-    height: 330.07px;
+    height: 256.01px;
+    width: 204.75px;
   } /*листик лысый*/
   .img28 {
     cursor: pointer;
-    transform: rotate(28.82deg);
-    margin: 1439.02px 0px 0px 52.55px;/*верхнего, правого, нижнего и левого края.*/
+    transform: rotate(15deg);
+    margin: 1450.02px 0px 0px 87.82px;/*верхнего, правого, нижнего и левого края.*/
     position: absolute;
-    width: 278.37px;
-    height: 372.52px;
+    width: 215.91px;
+    height: 288.94px;
   } /*лист жирный*/
   @keyframes anim {
     0% {
@@ -839,7 +839,7 @@
   .img29 {
     z-index: 99;
     position: absolute;
-    margin: 947px 177px 0px 0px;
+    margin: 910px 123px 0px 0px;
     border-bottom-color: none;
     width: 237px;
     height: 302px;
@@ -857,7 +857,7 @@
     }
   }
   .imgkrest {
-    margin: 49px 0px 0px 354.94px;
+    margin: 22px 0px 0px 309.86px;
     position: fixed;
   }
   .tfortwo {
@@ -865,47 +865,47 @@
     z-index: 1;
     font-size: 47px;
     font-family: "Didona", Serif;
-    margin: 43.15px 0px 0px 32.71px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 18.15px 0px 0px 26.36px;/*верхнего, правого, нижнего и левого края.*/
     font-weight: 100;
   }
   .mintf1 {
     position: absolute;
     z-index: 4;
-    margin: 1012.5px 0px 0px 256.81px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 695.9px 0px 0px 11.7px;/*верхнего, правого, нижнего и левого края.*/
   }
   .imgf {
     z-index: 1;
     position: absolute;
-    margin: 121px 0px 0px 18px;
-    width: 337px;
-    height: 456px;
+    margin: 72px 0px 0px 3px;
+    width: 308px;
+    height: 417px;
   }
   .imgf2 {
     z-index: 2;
     position: absolute;
-    margin: 328px 0px 0px 0px;
-    width: 414px;
-    height: 498px;
+    margin: 251px 0px 0px 3px;
+    width: 350px;
+    height: 420px;
   }
   .imgf3 {
     z-index: -1;
     position: absolute;
-    margin: 626px 0px 0px 6px;
-    width: 402px;
-    height: 430px;
+    margin: 403px 0px 0px 23px;
+    width: 327px;
+    height: 350px;
   }
   .imgf4 {
     z-index: 3;
     position: absolute;
-    margin: 1096px 0px 0px 176px;
+    margin: 803px 0px 0px 116px;
     width: 10px;
     height: 10px;
   }
   .book {
     z-index: 4;
     position: absolute;
-    margin: 966px 0px 0px 0px;
-    width: 414px;
-    height: 278px;
+    margin: 693px 0px 0px 0px;
+    width: 360px;
+    height: 242px;
   }
 }
