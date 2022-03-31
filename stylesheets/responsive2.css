@@ -1315,45 +1315,41 @@
   .mintf1 {
     position: absolute;
     z-index: 4;
-    margin: 149.8px 0px 0px 51.86px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 1546.4px 0px 0px 31.97px;/*верхнего, правого, нижнего и левого края.*/
   }
   .imgf {
     z-index: 1;
     position: absolute;
-    margin: 97px 0px 0px 277px;
-    width: 469px;
-    height: 634px;
+    margin: 116px 0px 0px 25px;
+    width: 629px;
+    height: 850px;
   }
   .imgf2 {
     z-index: 2;
     position: absolute;
-    margin: 35px 0px 0px 405px;
-    width: 574px;
-    height: 691px;
+    margin: 369px 0px 0px 42px;
+    width: 726px;
+    height: 874px;
   }
   .imgf3 {
     z-index: -1;
     position: absolute;
-    margin: 130px 0px 0px 32px;
-    width: 530px;
-    height: 568px;
+    margin: 966px 0px 0px 31px;
+    width: 706px;
+    height: 756px;
   }
   .imgf4 {
     z-index: 3;
     position: absolute;
     margin: 372px 0px 0px 453px;
-    width: 571px;
-    height: 396px;
+    width: 10px;
+    height: 10px;
   }
   .book {
     z-index: 4;
     position: absolute;
-    margin: 414px 498px 0px 0px;
-    width: 526px;
-    height: 354px;
-  }
-  .twobod {
-    height: 768px;
-    overflow-y: hidden;
+    margin: 1414px 0px 0px 0px;
+    width: 768px;
+    height: 517px;
   }
 }
