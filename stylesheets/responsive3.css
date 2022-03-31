@@ -456,128 +456,128 @@
 
 @media only screen and (max-device-width: 360px){
   .imgnone1 img{
-    width: 275.75px;
-    height: 363.79px;
-    margin: 175.98px 0px 0px 73.85px;
+    width: 240px;
+    height: 317px;
+    margin: 143px 0px 0px 60px;
     position: absolute;
     z-index: -100;
   }
   .imgnone2 img{
-    width: 10px;
-    height: 10px;
-    margin: 763px 0px 0px 163px;
+    width: 23.49px;
+    height: 242.37px;
+    margin: 998.91px 0px 0px 267.96px;
     position: absolute;
     z-index: -99;
+    transform: rotate(165deg);
   }
   .t1 {
     position: absolute;
     z-index: 1;
     font-size: 59px;
     font-family: "Didona", Serif;
-    margin: 39.51px 0px 0px 32.89px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 32.51px 0px 0px 34.89px;/*верхнего, правого, нижнего и левого края.*/
     font-weight: 100;
   }
   .t2 {
     position: absolute;
     z-index: 2;
-    font-size: 18px;
+    font-size: 17px;
     font-family: "Montserrat-Medium", sans-serif;
-    margin: 102.26px 0px 0px 32.96px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 89.96px 0px 0px 34.85px;/*верхнего, правого, нижнего и левого края.*/
     font-weight: 200;
   }
   .t3 {
     position: absolute;
     z-index: 3;
-    font-size: 19px;
+    font-size: 17px;
     font-family: "Montserrat-Medium", sans-serif;
-    margin: 2031.55px 0px 0px 40.23px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 1858.96px 0px 0px 41.2px;/*верхнего, правого, нижнего и левого края.*/
     font-weight: 200;
   }
   .mint1 {
     position: absolute;
     z-index: 4;
-    margin: 909.71px 0px 0px 32.64px;
+    margin: 878.48px 0px 0px 34.42px;
   }
   .mint2 {
     position: absolute;
     z-index: 5;
-    margin: 932.38px 0px 0px 276.18px;
+    margin: 754.8px 0px 0px 246.16px;
   }
   .mint3 {
     position: absolute;
     z-index: 6;
-    margin: 749.71px 0px 0px 31.68px;
+    margin: 642.48px 0px 0px 33.59px;
   }
   .mint4 {
     position: absolute;
     z-index: 7;
-    margin: 199.71px 0px 0px 89.2px;
+    margin: 159.48px 0px 0px 72.17px;
   }
   .mint5 {
     position: absolute;
     z-index: 8;
-    margin: 2316.5px 0px 0px 149.64px;
+    margin: 2023.9px 0px 0px 151.42px;
   } /*кофе надпись*/
   .mint6 {
     position: absolute;
     z-index: 9;
-    margin: 1296.67px 0px 0px 168.86px;
+    margin: 1254.8px 0px 0px 167.7px;
   }
   .mint7 {
     position: absolute;
     z-index: 0;
-    margin: 1840.38px 0px 0px 207.68px;
+    margin: 1708.8px 0px 0px 211.58px;
   }
   .mint8 {
     position: absolute;
     z-index: 100;
-    margin: 1022.38px 0px 0px 32.64px;
+    margin: 969.8px 0px 0px 34.42px;
   }
   p{
     font-weight: 200;
-    font-size: 15px;
+    font-size: 13px;
     font-family: "Montserrat-Medium", sans-serif;
   }
   .fut1 {
     position: absolute;
     z-index: 11;
-    font-size: 8px;
+    font-size: 9px;
     font-family: "Montserrat-Medium", sans-serif;
-    margin: 2434.4px 0px 0px 31.87px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 2079.7px 0px 0px 33.98px;/*верхнего, правого, нижнего и левого края.*/
     font-weight: 200;
   }
   .fut2 {
     position: absolute;
     z-index: 12;
-    font-size: 8px;
+    font-size: 9px;
     font-family: "Montserrat-Medium", sans-serif;
-    margin: 2459.4px 0px 0px 31.1px;/*верхнего, правого, нижнего и левого края.*/
+    margin: 2105.7px 0px 0px 33.11px;/*верхнего, правого, нижнего и левого края.*/
     font-weight: 200;
   }
   .logo img{
     position: absolute;
     z-index: -99;
-    width: 71px;
-    height: 26px;
-    margin: 2482px 0px 0px 31px;
+    width:61px;
+    height: 22px;
+    margin: 2133px 0px 0px 33px;
   }
   .imgone {
     cursor: pointer;
     z-index: 100;
-    width: 106.84px;
-    height: 108px;
+    width: 90.1px;
+    height: 91.08px;
   }/* марка с фламинго*/
   .imgone {
     position:absolute;
-    margin: 997px 0px 0px 245.54px;
+    margin: 792.92px 0px 0px 202.35px;
   }/* марка с фламинго*/
   .imgtwo img{
     position: absolute;
     z-index: 13;
-    width: 152.49px;
-    height: 214px;
-    margin: 1849.25px 0px 0px 217.75px;
-    transform: rotate(90deg);/*верхнего, правого, нижнего и левого края.*/
+    width: 135.47px;
+    height: 190.11px;
+    margin: 1797px 0px 0px 212px;/*верхнего, правого, нижнего и левого края.*/
   } /*скрепки и прочая хрень */
   .img4 img{
     position: absolute;
@@ -589,10 +589,10 @@
   .img5 img{
     position: absolute;
     z-index: 15;
-    width: 136.55px;
-    height: 219.15px;
-    margin: 2141.7px 0px 0px 104.3px;
-    transform: rotate(-90deg);/*верхнего, правого, нижнего и левого края.*/
+    width: 105.48px;
+    height: 169.27px;
+    margin: 934px 0px 0px 247px;
+    transform: rotate(180deg);/*верхнего, правого, нижнего и левого края.*/
   } /*карандаш*/
   .img6 img{
     position: absolute;
@@ -611,59 +611,59 @@
   .img8 img{
     position: absolute;
     z-index: 100;
-    width: 135.31px;
-    height: 266.43px;
-    margin: 252.46px 0px 0px 134.03px;
+    width: 112.13px;
+    height: 220.79px;
+    margin: 204.75px 0px 0px 121.48px;
     transform: rotate(-15deg);/*верхнего, правого, нижнего и левого края.*/
   }/*куски скотча*/
   .img11 {
-    width: 37.7px;
-    height: 293.65px;
-    transform: rotate(-75deg);
+    width: 32.73px;
+    height: 254.92px;
+    transform: rotate(140.33deg);
   } /* первая ручка */
   .img111 {
     position: absolute;
-    margin: 440.38px 0px 0px 176.85px;
+    margin: 453.1px 0px 0px 72.59px;
   }
   .img13 {
-    width: 37.7px;
-    height: 293.65px;
-    transform: rotate(-60deg);
+    width: 32.73px;
+    transform: rotate(-81.6deg);
+    height: 254.92px;
   } /* вторая ручка */
   .img133 {
     position: absolute;
-    margin: 541.91px 0px 0px 234.73px;
+    margin: 412.35px 0px 0px 196.12px;
   }
   .img15 {
-    width: 37.68px;
-    height: 293.52px;
-    transform: rotate(150deg);
+    width: 32.71px;
+    height: 254.8px;
+    transform: rotate(-176.89deg);
   } /*третья ручка*/
   .img155 {
     position: absolute;
-    margin: 568.76px 0px 0px 119.85px;
+    margin: 577.11px 0px 0px 172.32px;
   }
   .img177 {
     cursor: pointer;
     position: absolute;
-    margin: 2291px 0px 0px 171px;
-    width: 243px;
-    height: 236px;
+    margin: 2007px 0px 0px 169px;
+    width: 191px;
+    height: 185px;
   } /* чашка кофе */
   .img199 {
     cursor: pointer;
     position: absolute;
-    margin: 776px 0px 0px 243px;
-    width: 154.85px;
-    height: 143px;
+    margin: 618.08px 0px 0px 217.46px;
+    width: 134.43px;
+    height: 124.14px;
   } /* скомканный лист*/
   .img211 {
     z-index: 100;
     cursor: pointer;
     position: absolute;
-    margin: 1115px 0px 0px 246px;
-    width: 111px;
-    height: 91.38px;
+    margin: 759.73px 0px 0px 33px;
+    width: 107.69px;
+    height: 88.65px;
   } /*марка с жуком*/
   .ball {
     cursor: pointer;
