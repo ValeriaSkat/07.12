@@ -104,23 +104,23 @@
     width: 71px;
     height: 26px;
     margin: 2482px 0px 0px 31px;
-  } /*ОСТАНОВИЛАСЬ ТУТ*/
+  }
   .imgone {
     cursor: pointer;
     z-index: 100;
-    width: 159.75px;
-    height: 161.48px;
+    width: 106.84px;
+    height: 108px;
   }/* марка с фламинго*/
   .imgone {
     position:absolute;
-    margin: 1376.12px 0px 0px 491px;
+    margin: 997px 0px 0px 245.54px;
   }/* марка с фламинго*/
   .imgtwo img{
     position: absolute;
     z-index: 13;
-    width: 234.44px;
-    height: 329px;
-    margin: 1749px 0px 0px 13px;
+    width: 152.49px;
+    height: 214px;
+    margin: 1849.25px 0px 0px 217.75px;
     transform: rotate(90deg);/*верхнего, правого, нижнего и левого края.*/
   } /*скрепки и прочая хрень */
   .img4 img{
@@ -133,10 +133,10 @@
   .img5 img{
     position: absolute;
     z-index: 15;
-    width: 162.84px;
-    height: 261.33px;
-    margin: 1912.23px 0px 0px 518.49px;
-    transform: rotate(-123.39deg);/*верхнего, правого, нижнего и левого края.*/
+    width: 136.55px;
+    height: 219.15px;
+    margin: 2141.7px 0px 0px 104.3px;
+    transform: rotate(-90deg);/*верхнего, правого, нижнего и левого края.*/
   } /*карандаш*/
   .img6 img{
     position: absolute;
@@ -155,20 +155,20 @@
   .img8 img{
     position: absolute;
     z-index: 100;
-    width: 160.53px;
-    height: 316.09px;
-    margin: 362.39px 0px 0px 289.17px;
+    width: 135.31px;
+    height: 266.43px;
+    margin: 252.46px 0px 0px 134.03px;
     transform: rotate(-15deg);/*верхнего, правого, нижнего и левого края.*/
   }/*куски скотча*/
   .img11 {
-    width: 61.76px;
-    height: 481.08px;
-    transform: rotate(176.11deg);
+    width: 37.7px;
+    height: 293.65px;
+    transform: rotate(-75deg);
   } /* первая ручка */
   .img111 {
     position: absolute;
     margin: 570.54px 0px 0px 33.26px;
-  }
+  }/* ТУТ ПРОДОЛЖ*/
   .img13 {
     width: 60.23px;
     height: 469.16px;
