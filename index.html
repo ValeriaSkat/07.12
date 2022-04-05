@@ -16,17 +16,79 @@
      <script src="javascripts/java-script.js" charset="utf-8"></script> <!-- файл js -->
   </head>
   <body>
-  <div class="imgone"><img class="imgone" src="img/imgtwo.png" alt="">
+    <nav> <!--тег отвечает за меню сверху-->
+      <div class="menu-items"> <!--верхнее меню бургер-->
+        <a href="#">logo</a>
+        <a href="#">mac</a>
+        <a href="#">ipad</a>
+        <a href="#">iphone</a>
+        <a href="#">watch</a>
+        <a href="#">tw</a>
+        <a href="#">music</a>
+        <a href="#">support</a>
+        <a href="#">cart</a>
+      </div>
+      <div class="menu-search"> <!--строка куда ты что-то вводишь-->
+        <span></span> <input type="text" name="" value=""> <a href="#"></a>
+      </div>
+    </nav>
+
+<div class="banner">
+  <div class="color-block">
   </div>
-  <script>
-  $(document).ready(function(){
-	$('.imgone').click(function(){
-	$('.imgone').attr('src', 'img/imgthree.png');
-	})
-	$('.imgone').click(function(){
-	$('.imgone').attr('src', 'img/imgthree.png');
-	})
-})
-</script>
+  <h1>Create Your Apple ID</h1>
+</div>
+<form class="" action="index.html" method="post"> <!--контент который отправляет контент-->
+  <p>Одного Apple ID достаточно для доступа ко всем сервисам Apple.
+Уже есть Apple ID? Найдите его здесь </p>
+
+<div class="form-split">
+  <input type="text" name="" value="" placeholder="first name"> <!-- input это контейнер в который ты вкладываешь, placeholder текст который исчезает когда мы вводим данные-->
+  <input type="text" name="" value="" placeholder="last name">
+</div>
+<h3>СТРАНА/РЕГИОН</h3>
+<select class=""><!--Вариация выборов-->
+  <option value="">russia</option>
+  <option value="">usa</option>
+  <option value="">france</option><!--Вариация ответов-->
+</select>
+<input type="text" name="" value="" placeholder="birthday">
+<hr>
+
+<input type="email" name="" value="" placeholder="name@example.com">
+<span>Это Ваш новый Apple ID.</span>
+<input type="password" name="" value="" placeholder="password">
+<input type="password" name="" value="" placeholder="confirm password">
+<hr>
+<select class="" name="">
+  <option value="">(+7) russia</option>
+  <option value="">(+381) serbia</option>
+  <option value="">(+6) usa</option>
+</select>
+
+<input type="tel" name="" value="" placeholder="phone number"><!--Вылет для телефонов-->
+<span>
+  </br>Введите номер телефона, который всегда доступен. Этот номер будет использоваться
+</br> для подтверждения личности при выполнении входа на новом
+</br> устройстве или в новом браузере. За обмен сообщениями </br>
+и передачу данных может взиматься плата.</span><!--Выноски текста-->
+<div class="radio-list">
+  <p>Подтверждение:</p>
+<div class="">
+<input type="radio" name="phoneroof" value=""><!--radio Выбрать из нескольких кнопок-->
+<label for="">текстовое сообщение</label><!--label текст рядом с точкой-->
+</div>
+<div class="">
+<input type="radio" name="phoneroof" value=""><!--radio Выбрать из нескольких кнопок-->
+<label for="">телефонный звонок</label><!--label текст рядом с точкой-->
+</div>
+</div>
+<hr>
+<label class="checkbox-list"for=""><input type="chekbox" name="phoneroof" value="">Анонсы <span>Получайте сообщения о выходе обновлений, рекомендации и информацию о новых продуктах, программном обеспечении и услугах компании Apple.</span></label>
+<label class="checkbox-list"for=""><input type="chekbox" name="phoneroof" value="">Приложения, музыка, фильмы, телешоу и многое другое <span>Получайте эксклюзивный контент, информацию о релизах, специальные предложения и рекомендации по приложениям, музыке, фильмам, телешоу, книгам, подкастам, Apple Pay и многому другому.</span></label>
+<hr>
+<p>Данные Вашего Apple ID используются для безопасного входа в учетную запись и доступа к персональной информации. Apple сохраняет некоторые данные в целях обеспечения безопасности, поддержки и составления отчетов. Как осуществляется управление данными.</p>
+<button type="submit" name="button">Продолжить</button><!--submit чтобы дальше отправлялось форма-->
+</form>
   </body>
 </html>
